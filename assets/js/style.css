@@ -1,0 +1,36 @@
+.btn-up{
+    margin-left: 45%;
+    padding: 7px 19px;
+}
+.btn-down{
+    margin-left: 45%;
+    padding: 7px 19px;
+}
+.btn-prev{
+    margin-left: 39%;
+    padding: 7px 19px;
+}
+.btn-next{
+    margin-right: 45.5%;
+    padding: 7px 19px;
+}
+.all-click{
+    margin-top: 5%;
+}
+.circle{
+    width: 7%;
+    background-color: red;
+    height:7vh;
+    border-radius: 50%;
+}
+.bgcolor{
+    background-color: black;
+    width: 50%;
+    height: 50vh;
+    margin-left: 25%;
+    margin-top: -5%;
+}
+.all-inputs{
+    width: 13%;
+
+}
